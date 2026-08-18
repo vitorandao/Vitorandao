@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Estudante de engenharia de software 👋
+Estudante de Engenharia de Software, com foco no desenvolvimento de habilidades em programação, tecnologia e criação de soluções digitais. Este repositório reúne projetos, estudos e experiências práticas desenvolvidos ao longo da minha jornada acadêmica e profissional, representando minha evolução contínua na área de tecnologia.
 <!--
 **vitorandao/Vitorandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
