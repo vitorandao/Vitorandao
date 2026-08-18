@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Linkedin: www.linkedin.com/in/vitor-brandao-37013b421
+# Dev.to: https://dev.to/vitorandao
