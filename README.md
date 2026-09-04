@@ -1,3 +1,4 @@
+[readme-banner (2).html](https://github.com/user-attachments/files/31855030/readme-banner.2.html)
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -66,12 +67,12 @@
   }
 
   .info { flex: 1; font-size: 15px; line-height: 24px; }
-  .user { color: #58592D; font-weight: bold; font-size: 17px; }
+  .user { color: #98c379; font-weight: bold; font-size: 17px; }
   .rule { color: #5c6370; }
   .section { color: #e5c07b; font-weight: bold; margin-top: 14px; text-align: center; }
-  .label { color: #F2EBC4; }
+  .label { color: #ffffff; }
   .dots-line { color: #5c6370; }
-  .value { color: #A67153; }
+  .value { color: #61afef; }
 
   .prompt { margin-top: 24px; color: #98c379; font-size: 15px; }
   .prompt .arrow { color: #ffffff; }
