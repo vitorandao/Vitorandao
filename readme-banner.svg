@@ -159,7 +159,7 @@
 
   <!-- right info panel -->
   <g class="base" font-size="16">
-    <text x="380" y="58" fill="#98c379" font-weight="bold">vitor@brandao</text>
+    <text x="380" y="58" fill="#98c379" font-weight="bold">@vitorandao</text>
     <text x="380" y="76" fill="#5c6370">--------------</text>
 
     <text x="380" y="108" fill="#e5c07b" font-weight="bold">General Info</text>
@@ -178,5 +178,5 @@
   </g>
 
   <!-- bottom prompt -->
-  <text x="26" y="500" class="base" font-size="16" fill="#98c379">vitorandao <tspan fill="#ffffff">~&gt;</tspan> <tspan fill="#ffffff">▌</tspan></text>
+  <text x="26" y="500" class="base" font-size="16" fill="#98c379">@vitorandao <tspan fill="#ffffff">~&gt;</tspan> <tspan fill="#ffffff">▌</tspan></text>
 </svg>
