@@ -178,5 +178,5 @@
   </g>
 
   <!-- bottom prompt -->
-  <text x="26" y="500" class="base" font-size="16" fill="#98c379">vitor@brandao <tspan fill="#ffffff">~&gt;</tspan> <tspan fill="#ffffff">▌</tspan></text>
+  <text x="26" y="500" class="base" font-size="16" fill="#98c379">vitorandao <tspan fill="#ffffff">~&gt;</tspan> <tspan fill="#ffffff">▌</tspan></text>
 </svg>
